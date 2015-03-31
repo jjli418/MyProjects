@@ -1,5 +1,10 @@
 
+! for windows
+Debug
+ipch
 *.obj
 obj
 *.exe
 *.tmp
+*.suo
+*.sdf
